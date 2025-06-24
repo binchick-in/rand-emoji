@@ -8,7 +8,7 @@ This tool is mainly for use with my [tmux session manager script](https://github
 # Installation
 
 ```
-go install github.com/binchick-in/rand-emoji
+go install github.com/binchick-in/rand-emoji@latest
 ```
 
 # Usage
